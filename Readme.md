@@ -1,20 +1,45 @@
-# 💫 About Me:
-This is `Divya` currently working as a `Business Analyst` in `TMEIC` and pursued my bachelor's degree in `Electrical Engineering` from the `CV Raman Global University, Odisha`. I have efficient track record in working with Ms Excel, Tableau, PowerBI, and Business Intelligence tools.
+# Hi, I'm Divya Gupta
 
-# 💻 Tech Stack:
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=gptdivya595&theme=merko&hide_border=false)<br/>
+AI Product Manager | MBA Candidate | NextLeap Product Manager Fellow
 
-## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=gptdivya595&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?username=gptdivya595&theme=light)
+I work at the intersection of product strategy, AI, user research, analytics, and execution. I have experience in project management, stakeholder coordination, Jira-based tracking, budgeting, team collaboration, and building AI product artifacts across LLMs, RAG, MCP agents, PRDs, product design, and product metrics.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## About Me
 
----
-[![](https://visitcount.itsvg.in/api?id=gptshubham595&icon=6&color=7)](https://visitcount.itsvg.in)
+- Currently building AI product management projects across LLMs, RAG, and agentic workflows
+- MBA candidate at Manipal University
+- NextLeap Product Manager Fellow
+- Experienced in project planning, team coordination, delivery tracking, and stakeholder communication
+- Interested in AI products, user problems, product discovery, and measurable product outcomes
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured Work
+
+- Groww Mutual Fund FAQ Chatbot: RAG-based assistant for source-backed mutual fund FAQ answers
+- Weekly Product Review Pulse Agent: MCP-based workflow for review analysis and product insights
+- ChatGPT Voice Input MVP: PRD, research, wireframes, and MVP focused on voice input adoption
+
+## Skills
+
+![Product Management](https://img.shields.io/badge/Product%20Management-111827?style=for-the-badge)
+![AI Product](https://img.shields.io/badge/AI%20Product-2563EB?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-059669?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-DC2626?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=for-the-badge)
+![PRD](https://img.shields.io/badge/PRD-374151?style=for-the-badge)
+![User Research](https://img.shields.io/badge/User%20Research-0F766E?style=for-the-badge)
+![Product Analytics](https://img.shields.io/badge/Product%20Analytics-1D4ED8?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=gptdivya595&theme=merko&hide_border=false)
 
 ![GitHub followers](https://img.shields.io/github/followers/gptdivya595?style=social)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=gptdivya595&icon=6&color=7)](https://visitcount.itsvg.in)
